@@ -1,0 +1,93 @@
+Grupa Zielonych analizuje i sprawdzwa kod grupy zółtych.
+
+1. zolci/src/main/java/com/project/manager/controllers/LoginController.java -     
+    - brak komentarzy do metod
+
+2. zolci/src/main/java/com/project/manager/controllers/RegistrationController.java 
+    - linia 73,77,78 - powyżej 80 znkaów w kolumnie
+    
+3. zolci/src/main/java/com/project/manager/controllers/MessageViewWindowController.java
+    - brak komentarza w metodzie linia 42
+    
+4. zolci/src/main/java/com/project/manager/controllers/ResetPasswdController.java
+    - wszystko ok
+    
+5. zolci/src/main/java/com/project/manager/controllers/UserSelectorController.java
+    - linia 15 - niepotrzebna linia odstępu
+    - linia 28 - niepotrzebna linia odstępu
+
+6. zolci/src/main/java/com/project/manager/Main.java 
+    - brak komentarzy do "Main Class"
+
+7. zolci/src/main/java/com/project/manager/controllers/admin/AdminDashboardController.java
+    - linia 19 zbędny odstęp
+    
+8. zolci/src/main/java/com/project/manager/controllers/admin/UpdateProjectController.java
+    - lina 8 zbędny odstęp
+
+9. zolci/src/main/java/com/project/manager/controllers/dashboard/DashboardController.java
+    - lina 12,27 zbędny odstęp 
+    
+10. zolci/src/main/java/com/project/manager/controllers/dashboard/ProjectPaneController.java
+    - linia 36,37 komentarz do polsku
+    - linia 15,28 zbędna linia
+
+11. zolci/src/main/java/com/project/manager/controllers/manager/ManagerProjectViewController.java
+    - linia 15, 49 zbędny odstęp
+
+12. zolci/src/main/java/com/project/manager/data/InjectData.java
+    - linia 17 zbędny odstęp
+    - brak komentarza do metod
+
+13. zolci/src/main/java/com/project/manager/entities/Message.java
+    - zbędne odstępy linia 2-3 oraz 6
+    
+14. zolci/src/main/java/com/project/manager/entities/Project.java
+    - zbędny odstęp linia 4
+
+15. zolci/src/main/java/com/project/manager/entities/Task.java
+    - zbędny odstęp linia 5
+
+16. zolci/src/main/java/com/project/manager/entities/UserModel.java
+    - zbędny odstęp linia 7
+    
+17. zolci/src/main/java/com/project/manager/config/ApplicationContextProvider.java
+    - wszystko git
+
+18. zolci/src/main/java/com/project/manager/config/DataSourceConfiguration.java
+    - brak komentarzy
+
+19. zolci/src/main/java/com/project/manager/config/FXMLLoaderProvider.java
+    - brak komentarzy
+    
+20. zolci/src/main/java/com/project/manager/repositories/MessageRepository.java
+    - brak komentarzy
+   
+21. zolci/src/main/java/com/project/manager/repositories/ProjectRepository.java
+    - brak komentarzy
+    
+22. zolci/src/main/java/com/project/manager/repositories/TaskRepository.java
+    - brak komentarzy
+    
+23. zolci/src/main/java/com/project/manager/repositories/UserRepository.java
+    - wszystko git
+ 
+24. zolci/src/main/java/com/project/manager/models/MessageTableView.java
+   - brak komentarzy
+    
+25. zolci/src/main/java/com/project/manager/models/ProjectTableView.java
+    - zbędne odstępy
+    
+26. zolci/src/main/java/com/project/manager/models/TaskStatus.java
+    - brak komentarzy
+    
+27. zolci/src/main/java/com/project/manager/models/UserRole.java
+    - brak komentarzy
+    
+28. zolci/src/main/java/com/project/manager/models/UserRole.java
+    - brak komentarzy
+    
+29. zolci/src/main/java/com/project/manager/models/UserTableView.java
+    - brak komentarzy
+
+    
